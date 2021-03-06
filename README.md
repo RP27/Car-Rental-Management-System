@@ -1,2 +1,2 @@
 # Car-Rental-Management-System
-Assignment completed for CAB201, where the project was to develop a program for a car rental company to efficiently manage their fleet of cars.
+Program developed for a fictional car rental company to efficiently manage their fleet of cars. Data is read from CSV files in the data folder. The command line interface is used to execute this program, and all changes to the the company's data can be from it. This project does not reflect my current skill as a software developer.
