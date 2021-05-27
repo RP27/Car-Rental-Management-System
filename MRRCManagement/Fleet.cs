@@ -203,6 +203,7 @@ namespace MRRCManagement
         /// <param name="registration> Registration number of the vehicle </param>
         /// 
         /// <returns> returns the instance of the vehicle matching the registration number </returns>
+        
         public Vehicle GetVehicle(string registration)
         {
             // Checks if the registration number entered matches the registration number in the Fleet list
