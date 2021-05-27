@@ -9,8 +9,6 @@ namespace MRRCManagement
     /// <summary>
     /// The Vehicle class provides us with information about the attributes of vehicles
     /// 
-    /// Author Romeet Puhar May 2020
-    /// 
     /// </summary>    
     public class Vehicle
     {
