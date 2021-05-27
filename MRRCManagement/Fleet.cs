@@ -13,7 +13,6 @@ namespace MRRCManagement
     /// It contains methods required to add vehicles to the Fleet, find vehicles by rego,
     /// and allows vehicles to be removed, also.
     /// 
-    /// Author Romeet Puhar May 2020
     /// 
     /// </summary>
 
@@ -64,8 +63,6 @@ namespace MRRCManagement
         /// <summary>
         /// Adds a vehicle to the list of vehicles in Fleet
         /// 
-        /// Code inspired by https://stackoverflow.com/questions/3435089/how-to-check-if-object-already-exists-in-a-list/3435099#3435099,
-        /// modified by me (Romeet Puhar) for assignment purposes
         /// </summary>
         /// 
         /// <param name="vehicle"> Instance of a vehicle </param>
@@ -201,7 +198,6 @@ namespace MRRCManagement
         /// <summary>
         /// This method returns the vehicle by its registration number
         /// 
-        /// Code inspired by https://stackoverflow.com/a/9854944, modified by me (Romeet Puhar) for assignment purposes
         /// </summary>
         /// 
         /// <param name="registration> Registration number of the vehicle </param>
