@@ -10,8 +10,6 @@ namespace MRRCManagement
     /// <summary>
     /// The CRM class provides us with information about customer resource management
     /// 
-    /// Author Romeet Puhar May 2020
-    /// 
     /// </summary>    
     public class CRM
     {
@@ -47,7 +45,6 @@ namespace MRRCManagement
         /// <summary>
         /// Adds a customer to the list of customers
         /// 
-        /// Code inspired by https://stackoverflow.com/questions/3435089/how-to-check-if-object-already-exists-in-a-list/3435099#3435099, modified by me (Romeet Puhar) for assignment purposes
         /// </summary>
         /// 
         /// <param name="customer"> Instance of a customer </param>
@@ -76,7 +73,6 @@ namespace MRRCManagement
         /// <summary>
         /// Removes a customer from the list of customers if not currently renting a vehicle
         /// 
-        /// Code inspired by https://stackoverflow.com/questions/3435089/how-to-check-if-object-already-exists-in-a-list/3435099#3435099, modified by me (Romeet Puhar) for assignment purposes
         /// </summary>
         /// 
         /// <param name="ID"> Instance of a customer's ID </param>
@@ -100,7 +96,6 @@ namespace MRRCManagement
         /// <summary>
         /// Returns an instance of a customer by their ID
         /// 
-        /// Code inspired by https://stackoverflow.com/a/9854944, modified by me (Romeet Puhar) for assignment purposes
         /// </summary>
         /// 
         /// <param name="ID"> Instance of a customer's ID </param>
