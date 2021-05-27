@@ -9,8 +9,6 @@ namespace MRRCManagement
     /// <summary>
     /// The Customer class provides us with information about customers renting vehicles
     /// 
-    /// Author Romeet Puhar May 2020
-    /// 
     /// </summary>    
     public class Customer
     {
