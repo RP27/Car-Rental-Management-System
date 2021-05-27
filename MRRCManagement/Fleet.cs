@@ -719,7 +719,7 @@ namespace MRRCManagement
         } //end of RentalSearch(string query)
 
         /// <summary>
-        /// 
+        /// Helper method
         /// </summary>
         /// <param name="vehicle"> An instance of a vehicle </param>
         /// <param name="s"> User's query </param>
